@@ -4,7 +4,7 @@ I build in this first verison of my model a <b> Random Forest Classifier </b> to
 the competition is finished at Kaggle , but I decided to continue this challenge. 
 If you have any comments or suggestions do no hesitate to contact me :
 
-email : aissaelouafi1994@gmail.com
+email : aissaelouafi1994@gmail.com<br/>
 LinkedIn : Aissa El Ouafi
 
 Regards, 
